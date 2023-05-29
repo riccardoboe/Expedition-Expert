@@ -3,7 +3,7 @@
 ## Description
 
 This website  provides various information to the user who are planning or considering traveling to various destinations. It serves as a resource for user to gather information about different restaurants, hotels, or attractions, and it helps the user to make informed decisions and enhance their travel experiences. <br/>
-<a href="https://expedition-expert.netlify.app/" target="_blank"> Click here to visit my portfolio </a>
+<a href="https://expedition-expert.netlify.app/" target="_blank"> Live Demo </a>
 
 ### Features
 
